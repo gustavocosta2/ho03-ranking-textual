@@ -1,0 +1,6 @@
+pandas==3.0.6
+ipykernel==7.4.0
+nltk==3.10.3
+scikit-learn==1.9.1
+elasticsearch>=8.0.0,<10.0.0
+streamlit>=1.30.0
